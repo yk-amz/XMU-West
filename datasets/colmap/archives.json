@@ -8,6 +8,7 @@
   "uploaded_archives": 1,
   "uploaded_source_bytes": 144071308,
   "drive_folder_url": "https://drive.google.com/drive/folders/1wHHEzQ8SNW0NyFadkIluY1Ken9k7xc0S",
+  "hashed_files": 11490,
   "verification": "Local SHA-256 and MD5 per file and archive; remote archive byte size read back using Drive metadata.",
   "archives": [
     {
@@ -164,21 +165,33 @@
       "name": "Project.part-0008.zip",
       "files": 199,
       "source_bytes": 2140484892,
-      "status": "pending"
+      "status": "packaged",
+      "archive_bytes": 1581856765,
+      "sha256": "4b0826235a2353bf456200152bd1755d5e106aae90bbfe7219c3b86f7f6e1d61",
+      "md5": "a730655e60788d680789280589100943",
+      "volumes": []
     },
     {
       "index": 9,
       "name": "Project.part-0009.zip",
       "files": 165,
       "source_bytes": 2132804194,
-      "status": "pending"
+      "status": "packaged",
+      "archive_bytes": 1383807163,
+      "sha256": "21a5c61c0710a7615a5afd1f907ff5833345464b507adf45bca890edb285f15c",
+      "md5": "bf645ba21640bb67a31a51e617c4ff6e",
+      "volumes": []
     },
     {
       "index": 10,
       "name": "Project.part-0010.zip",
       "files": 67,
       "source_bytes": 2143464804,
-      "status": "pending"
+      "status": "packaged",
+      "archive_bytes": 1132499579,
+      "sha256": "d952e19625005c04175fe9de72a4079d9e28320ea7f4cc7652039afcd4b57cce",
+      "md5": "38be29379451222c35ea137a370bec5c",
+      "volumes": []
     },
     {
       "index": 11,
