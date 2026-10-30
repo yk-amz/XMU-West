@@ -1,0 +1,723 @@
+{
+  "status": "uploading",
+  "snapshot_date": "2026-10-31",
+  "source": "D:\\Colmap\\Project",
+  "total_files": 11490,
+  "total_source_bytes": 181230603441,
+  "total_archives": 87,
+  "uploaded_archives": 1,
+  "uploaded_source_bytes": 144071308,
+  "drive_folder_url": "https://drive.google.com/drive/folders/1wHHEzQ8SNW0NyFadkIluY1Ken9k7xc0S",
+  "verification": "Local SHA-256 and MD5 per file and archive; remote archive byte size read back using Drive metadata.",
+  "archives": [
+    {
+      "index": 1,
+      "name": "Project.part-0001.zip",
+      "files": 65,
+      "source_bytes": 144071308,
+      "status": "uploaded_size_verified",
+      "archive_bytes": 63855313,
+      "sha256": "a88d900fbdf1c6089095a95328761d8bed7aa423b6170db53d43cc781702a308",
+      "md5": "a4ff04a6e001071870d8af7be1a7b7c0",
+      "volumes": [
+        {
+          "name": "Project.part-0001.zip",
+          "bytes": 63855313,
+          "sha256": "a88d900fbdf1c6089095a95328761d8bed7aa423b6170db53d43cc781702a308",
+          "md5": "a4ff04a6e001071870d8af7be1a7b7c0"
+        }
+      ],
+      "drive_file_id": "1JUYFFC6w5axyq576iO1-D1Oww4i0Zr64",
+      "url": "https://drive.google.com/file/d/1JUYFFC6w5axyq576iO1-D1Oww4i0Zr64/view?usp=drivesdk",
+      "remote_bytes": 63855313
+    },
+    {
+      "index": 2,
+      "name": "Project.part-0002.zip",
+      "files": 228,
+      "source_bytes": 2140062346,
+      "status": "packaged",
+      "archive_bytes": 2135107720,
+      "sha256": "abbd66ba46d74ee100acf04b1b823294f731e4e6e862ad120614589346b00b77",
+      "md5": "422b4183f5d21fe53dfc998164ef337d",
+      "volumes": [
+        {
+          "name": "Project.part-0002.zip.001",
+          "bytes": 503316480,
+          "sha256": "1e28997eb7f1e92ba7d33d14dc7cce620f055c4793dd51f067b910d06cf4f455",
+          "md5": "d836cba526283375e418d26eeb8acc62"
+        },
+        {
+          "name": "Project.part-0002.zip.002",
+          "bytes": 503316480,
+          "sha256": "b55f2a9a1be9512214d5840e75b79df063917fbf0442bcc14b64a1531d0ed8e4",
+          "md5": "917fc5353dcc4d194d78c09ef176faa6"
+        },
+        {
+          "name": "Project.part-0002.zip.003",
+          "bytes": 503316480,
+          "sha256": "7c4db57048bea9b0c445afa7e5be4ef1c920efca307ecbe76cdfd5af9a95ba81",
+          "md5": "04e2cdb4c331b3802e06ab9d54cdbfe3"
+        },
+        {
+          "name": "Project.part-0002.zip.004",
+          "bytes": 503316480,
+          "sha256": "7ca0fa99ff9eb4e59838ea19b0d20178aca94d0d3e02e38000ded0b423e4b877",
+          "md5": "bfd09b25ac9b6f66cbf7630e5688223b"
+        },
+        {
+          "name": "Project.part-0002.zip.005",
+          "bytes": 121841800,
+          "sha256": "2794d3a7dbe8db88cd62d33579f26ff019180aacc652b5003f184d252e9247ed",
+          "md5": "cd6fdafaf4db99cf9179dc2c9ebcefba"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Project.part-0003.zip",
+      "files": 222,
+      "source_bytes": 2139141815,
+      "status": "packaged",
+      "archive_bytes": 2134109073,
+      "sha256": "d858856f8e839ad9b2887f9fa633de9a2165c7cefeaa91e5c0fd45669fb109e0",
+      "md5": "9348516ccaa25c3d0ba2b32b67111ef3",
+      "volumes": [
+        {
+          "name": "Project.part-0003.zip.001",
+          "bytes": 503316480,
+          "sha256": "2c538dd2293199e6b0a53c03a7b515cdb37e188cde94da6f98c646f949807ae8",
+          "md5": "637cd062786da6e8237c2c3f15da1456"
+        },
+        {
+          "name": "Project.part-0003.zip.002",
+          "bytes": 503316480,
+          "sha256": "b8691423a5837df5fd9f226224a468dc48e3419bafd5fe9d94a9c2cb0dccfb77",
+          "md5": "50f2d29fb022e93c8d413354a069e837"
+        },
+        {
+          "name": "Project.part-0003.zip.003",
+          "bytes": 503316480,
+          "sha256": "90f0c4b0ae03d12fc3e87bfa61cd9545fd2fcebc6aa9d9ea262d09b0c2a49a9d",
+          "md5": "ceea33125e60f8150f10cfa49a3d754d"
+        },
+        {
+          "name": "Project.part-0003.zip.004",
+          "bytes": 503316480,
+          "sha256": "a60fc0c5a30d68d65c5d59d208ea7e5a1ffc082e0b330541acf4e6f644a4d515",
+          "md5": "638e02e0e40d7339900f3d66c801d2c0"
+        },
+        {
+          "name": "Project.part-0003.zip.005",
+          "bytes": 120843153,
+          "sha256": "9e5453de14d3928ac64683aa352ad8e45d50923b1230e4014a89fa078d6387d2",
+          "md5": "018507c2799d1258b91ac5ffee70fba4"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Project.part-0004.zip",
+      "files": 259,
+      "source_bytes": 2143723332,
+      "status": "packaged",
+      "archive_bytes": 2138087326,
+      "sha256": "fe03c59d3ae270bbe24f0232eff9e585717718156771943454e322c1b868055e",
+      "md5": "857da682c87928941891ff62c8ddaf7e",
+      "volumes": []
+    },
+    {
+      "index": 5,
+      "name": "Project.part-0005.zip",
+      "files": 315,
+      "source_bytes": 2142879421,
+      "status": "packaged",
+      "archive_bytes": 2137632366,
+      "sha256": "51ab37b1513cbef47364bef2970d2eeb0a2e96ff1dfafb69bfdf598910f649e6",
+      "md5": "cff0842efb509bebc36d5a0c23aa101f",
+      "volumes": []
+    },
+    {
+      "index": 6,
+      "name": "Project.part-0006.zip",
+      "files": 238,
+      "source_bytes": 2005102591,
+      "status": "packaged",
+      "archive_bytes": 1999839447,
+      "sha256": "0e66a711e0d6f5f8e04271925fd40301d06cfd68a2db10b66100a916a2e67946",
+      "md5": "51e154ff66465532f74b5cb63fd89370",
+      "volumes": []
+    },
+    {
+      "index": 7,
+      "name": "Project.part-0007.zip",
+      "files": 139,
+      "source_bytes": 2144872786,
+      "status": "packaged",
+      "archive_bytes": 1927624223,
+      "sha256": "0d53f67446cae533508685aa36b75594cd6fdcd74d1046fba75d9a9310317192",
+      "md5": "762e73811ca04e70b0286f0c5d2cea37",
+      "volumes": []
+    },
+    {
+      "index": 8,
+      "name": "Project.part-0008.zip",
+      "files": 199,
+      "source_bytes": 2140484892,
+      "status": "pending"
+    },
+    {
+      "index": 9,
+      "name": "Project.part-0009.zip",
+      "files": 165,
+      "source_bytes": 2132804194,
+      "status": "pending"
+    },
+    {
+      "index": 10,
+      "name": "Project.part-0010.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 11,
+      "name": "Project.part-0011.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 12,
+      "name": "Project.part-0012.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 13,
+      "name": "Project.part-0013.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 14,
+      "name": "Project.part-0014.zip",
+      "files": 164,
+      "source_bytes": 2138892921,
+      "status": "pending"
+    },
+    {
+      "index": 15,
+      "name": "Project.part-0015.zip",
+      "files": 193,
+      "source_bytes": 2142580672,
+      "status": "pending"
+    },
+    {
+      "index": 16,
+      "name": "Project.part-0016.zip",
+      "files": 118,
+      "source_bytes": 2122138412,
+      "status": "pending"
+    },
+    {
+      "index": 17,
+      "name": "Project.part-0017.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 18,
+      "name": "Project.part-0018.zip",
+      "files": 63,
+      "source_bytes": 2138063690,
+      "status": "pending"
+    },
+    {
+      "index": 19,
+      "name": "Project.part-0019.zip",
+      "files": 184,
+      "source_bytes": 2138772112,
+      "status": "pending"
+    },
+    {
+      "index": 20,
+      "name": "Project.part-0020.zip",
+      "files": 194,
+      "source_bytes": 2144108483,
+      "status": "pending"
+    },
+    {
+      "index": 21,
+      "name": "Project.part-0021.zip",
+      "files": 201,
+      "source_bytes": 2143466412,
+      "status": "pending"
+    },
+    {
+      "index": 22,
+      "name": "Project.part-0022.zip",
+      "files": 154,
+      "source_bytes": 2143469224,
+      "status": "pending"
+    },
+    {
+      "index": 23,
+      "name": "Project.part-0023.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 24,
+      "name": "Project.part-0024.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 25,
+      "name": "Project.part-0025.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 26,
+      "name": "Project.part-0026.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 27,
+      "name": "Project.part-0027.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 28,
+      "name": "Project.part-0028.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 29,
+      "name": "Project.part-0029.zip",
+      "files": 93,
+      "source_bytes": 2144776173,
+      "status": "pending"
+    },
+    {
+      "index": 30,
+      "name": "Project.part-0030.zip",
+      "files": 253,
+      "source_bytes": 2145351864,
+      "status": "pending"
+    },
+    {
+      "index": 31,
+      "name": "Project.part-0031.zip",
+      "files": 249,
+      "source_bytes": 2143571756,
+      "status": "pending"
+    },
+    {
+      "index": 32,
+      "name": "Project.part-0032.zip",
+      "files": 263,
+      "source_bytes": 2146911165,
+      "status": "pending"
+    },
+    {
+      "index": 33,
+      "name": "Project.part-0033.zip",
+      "files": 148,
+      "source_bytes": 2137531578,
+      "status": "pending"
+    },
+    {
+      "index": 34,
+      "name": "Project.part-0034.zip",
+      "files": 186,
+      "source_bytes": 2145791080,
+      "status": "pending"
+    },
+    {
+      "index": 35,
+      "name": "Project.part-0035.zip",
+      "files": 201,
+      "source_bytes": 2143466412,
+      "status": "pending"
+    },
+    {
+      "index": 36,
+      "name": "Project.part-0036.zip",
+      "files": 167,
+      "source_bytes": 2132804988,
+      "status": "pending"
+    },
+    {
+      "index": 37,
+      "name": "Project.part-0037.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 38,
+      "name": "Project.part-0038.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 39,
+      "name": "Project.part-0039.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 40,
+      "name": "Project.part-0040.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 41,
+      "name": "Project.part-0041.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 42,
+      "name": "Project.part-0042.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 43,
+      "name": "Project.part-0043.zip",
+      "files": 225,
+      "source_bytes": 2142216219,
+      "status": "pending"
+    },
+    {
+      "index": 44,
+      "name": "Project.part-0044.zip",
+      "files": 88,
+      "source_bytes": 2130826816,
+      "status": "pending"
+    },
+    {
+      "index": 45,
+      "name": "Project.part-0045.zip",
+      "files": 127,
+      "source_bytes": 2143979801,
+      "status": "pending"
+    },
+    {
+      "index": 46,
+      "name": "Project.part-0046.zip",
+      "files": 166,
+      "source_bytes": 2146435018,
+      "status": "pending"
+    },
+    {
+      "index": 47,
+      "name": "Project.part-0047.zip",
+      "files": 157,
+      "source_bytes": 2136297300,
+      "status": "pending"
+    },
+    {
+      "index": 48,
+      "name": "Project.part-0048.zip",
+      "files": 261,
+      "source_bytes": 2145493875,
+      "status": "pending"
+    },
+    {
+      "index": 49,
+      "name": "Project.part-0049.zip",
+      "files": 201,
+      "source_bytes": 2143466412,
+      "status": "pending"
+    },
+    {
+      "index": 50,
+      "name": "Project.part-0050.zip",
+      "files": 201,
+      "source_bytes": 2143466412,
+      "status": "pending"
+    },
+    {
+      "index": 51,
+      "name": "Project.part-0051.zip",
+      "files": 201,
+      "source_bytes": 2143466412,
+      "status": "pending"
+    },
+    {
+      "index": 52,
+      "name": "Project.part-0052.zip",
+      "files": 280,
+      "source_bytes": 2136931084,
+      "status": "pending"
+    },
+    {
+      "index": 53,
+      "name": "Project.part-0053.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 54,
+      "name": "Project.part-0054.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 55,
+      "name": "Project.part-0055.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 56,
+      "name": "Project.part-0056.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 57,
+      "name": "Project.part-0057.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 58,
+      "name": "Project.part-0058.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 59,
+      "name": "Project.part-0059.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 60,
+      "name": "Project.part-0060.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 61,
+      "name": "Project.part-0061.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 62,
+      "name": "Project.part-0062.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 63,
+      "name": "Project.part-0063.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 64,
+      "name": "Project.part-0064.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 65,
+      "name": "Project.part-0065.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 66,
+      "name": "Project.part-0066.zip",
+      "files": 167,
+      "source_bytes": 2146175497,
+      "status": "pending"
+    },
+    {
+      "index": 67,
+      "name": "Project.part-0067.zip",
+      "files": 229,
+      "source_bytes": 2138229623,
+      "status": "pending"
+    },
+    {
+      "index": 68,
+      "name": "Project.part-0068.zip",
+      "files": 195,
+      "source_bytes": 2137492773,
+      "status": "pending"
+    },
+    {
+      "index": 69,
+      "name": "Project.part-0069.zip",
+      "files": 187,
+      "source_bytes": 2144157106,
+      "status": "pending"
+    },
+    {
+      "index": 70,
+      "name": "Project.part-0070.zip",
+      "files": 253,
+      "source_bytes": 2145671579,
+      "status": "pending"
+    },
+    {
+      "index": 71,
+      "name": "Project.part-0071.zip",
+      "files": 259,
+      "source_bytes": 2123134586,
+      "status": "pending"
+    },
+    {
+      "index": 72,
+      "name": "Project.part-0072.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 73,
+      "name": "Project.part-0073.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 74,
+      "name": "Project.part-0074.zip",
+      "files": 67,
+      "source_bytes": 2143464804,
+      "status": "pending"
+    },
+    {
+      "index": 75,
+      "name": "Project.part-0075.zip",
+      "files": 141,
+      "source_bytes": 2018479970,
+      "status": "pending"
+    },
+    {
+      "index": 76,
+      "name": "Project.part-0076.zip",
+      "files": 227,
+      "source_bytes": 2139417647,
+      "status": "pending"
+    },
+    {
+      "index": 77,
+      "name": "Project.part-0077.zip",
+      "files": 170,
+      "source_bytes": 2116923820,
+      "status": "pending"
+    },
+    {
+      "index": 78,
+      "name": "Project.part-0078.zip",
+      "files": 59,
+      "source_bytes": 2116920708,
+      "status": "pending"
+    },
+    {
+      "index": 79,
+      "name": "Project.part-0079.zip",
+      "files": 59,
+      "source_bytes": 2116920708,
+      "status": "pending"
+    },
+    {
+      "index": 80,
+      "name": "Project.part-0080.zip",
+      "files": 59,
+      "source_bytes": 2116920708,
+      "status": "pending"
+    },
+    {
+      "index": 81,
+      "name": "Project.part-0081.zip",
+      "files": 59,
+      "source_bytes": 2116920708,
+      "status": "pending"
+    },
+    {
+      "index": 82,
+      "name": "Project.part-0082.zip",
+      "files": 98,
+      "source_bytes": 2138179468,
+      "status": "pending"
+    },
+    {
+      "index": 83,
+      "name": "Project.part-0083.zip",
+      "files": 338,
+      "source_bytes": 2124447658,
+      "status": "pending"
+    },
+    {
+      "index": 84,
+      "name": "Project.part-0084.zip",
+      "files": 93,
+      "source_bytes": 2146952903,
+      "status": "pending"
+    },
+    {
+      "index": 85,
+      "name": "Project.part-0085.zip",
+      "files": 113,
+      "source_bytes": 1515850551,
+      "status": "pending"
+    },
+    {
+      "index": 86,
+      "name": "Project.part-0086.zip",
+      "files": 4,
+      "source_bytes": 1951485952,
+      "status": "pending"
+    },
+    {
+      "index": 87,
+      "name": "Project.part-0087.zip",
+      "files": 1,
+      "source_bytes": 244563968,
+      "status": "pending"
+    }
+  ]
+}
