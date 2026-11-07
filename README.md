@@ -6,7 +6,7 @@
 
 原始位置：`D:\Colmap\Project`。本次快照包含 **11,490 个文件、168.784 GiB（181,230,603,441 字节）**。
 
-数据保存在 [Google Drive 私有 Colmap 文件夹](https://drive.google.com/drive/folders/1wHHEzQ8SNW0NyFadkIluY1Ken9k7xc0S)，GitHub 保存清单、校验值和恢复工具。两个位置均保持私有。
+数据保存在 [Google Drive 私有 Colmap 文件夹](https://drive.google.com/drive/folders/1wHHEzQ8SNW0NyFadkIluY1Ken9k7xc0S)，GitHub 保存清单、校验值和恢复工具。GitHub 仓库已公开，Google Drive 的归档访问权限由 Drive 分享设置管理。
 
 当前状态：**未完成（仅部分分卷已上传）**。已上传并核对大小 **1/87 包**，覆盖原始数据 0.134 GiB。实时进度以本文件和 `datasets/colmap/archives.json` 的最近一次提交为准。
 
