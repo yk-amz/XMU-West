@@ -1,0 +1,83 @@
+{
+  "repository": "yk-amz/XMU-West",
+  "tag": "region-model-20261107",
+  "archive": "XMU-West-2026-11-07.zip",
+  "bytes": 910836462,
+  "sha256": "d441abd14747fd6e169eccc03d2d9b3e090675436aa48c7241e82f4886151716",
+  "root_directory": "XMU-West-2026-11-07",
+  "archive_member_crc_and_sha256_verified": true,
+  "members": [
+    {
+      "path": "geometry/mesh_campus_repaired_refined.ply",
+      "bytes": 204688014,
+      "sha256": "0805f5ff5c638dc324cc630199271b3a3a5d74eaa5b7d423d20fd07eaf5c217f"
+    },
+    {
+      "path": "preview/campus_high_detail_mesh_viewer.html",
+      "bytes": 310056393,
+      "sha256": "3b3bba3d4fa321526843dcfbb727223ed320beee82ab2829e856aaf2ad9125f9"
+    },
+    {
+      "path": "preview/campus_photo_textured_main_building.png",
+      "bytes": 2458262,
+      "sha256": "cda7aea284a541459e4fb6044ecd56f948277825e5c30e90a29b5f825ca19903"
+    },
+    {
+      "path": "preview/campus_photo_textured_main_geometry.png",
+      "bytes": 1402012,
+      "sha256": "98361b95b0adb44f2b8d9da21b859c1b32a85c1e317c107d012f510df8011b9b"
+    },
+    {
+      "path": "preview/campus_photo_textured_overview.png",
+      "bytes": 354549,
+      "sha256": "4bcf210587ab4282dfd63f7632060f74c88707994a16581d44582985bd0c821f"
+    },
+    {
+      "path": "preview/campus_photo_textured_topdown.png",
+      "bytes": 536201,
+      "sha256": "adabf168f8638746def92cd86fe9f5de01ae482b961ba33a11b3737bc38de68b"
+    },
+    {
+      "path": "preview/campus_photo_textured_viewer.html",
+      "bytes": 186583459,
+      "sha256": "fa8eef7e168c0206f8b83dfb0fde2956c11e415b6b3a49706d9ecb26ee17b35e"
+    },
+    {
+      "path": "preview/west_facade_comparison.png",
+      "bytes": 863268,
+      "sha256": "d8ce8fad7252f2871b48d533c8f6d97df5f1b133cda6928e41a87e67553cf23f"
+    },
+    {
+      "path": "qa_summary.json",
+      "bytes": 1896,
+      "sha256": "0157854ba4372b2dfb4cb8ebcd2ac1019ac3397653b63c2dd378305c7d31c077"
+    },
+    {
+      "path": "results.html",
+      "bytes": 1683,
+      "sha256": "2550daf1b9f3f724e85aee06eeb9cc7d319e0123def758b82a198719422d79e0"
+    },
+    {
+      "path": "texture/campus_photo_textured_repaired.glb",
+      "bytes": 384696652,
+      "sha256": "db30c0e4319027ddcdd974441555d44302533916abd0f7d2701b4dd14f95e460"
+    },
+    {
+      "path": "texture/campus_photo_textured_repaired_web.glb",
+      "bytes": 139926764,
+      "sha256": "91cb72d0b04818bad6052b323fea35ae9208a60b1a3e526263793a015addc4a7"
+    },
+    {
+      "path": "SHA256SUMS",
+      "bytes": 1267,
+      "sha256": "ec2a916cae56ed59ac654e869a7a9e0a96af22f8f872bab62d6b689dbff49c0b"
+    }
+  ],
+  "preview_files": [
+    "repository_preview/campus_photo_textured_main_building.png",
+    "repository_preview/campus_photo_textured_main_geometry.png",
+    "repository_preview/campus_photo_textured_overview.png",
+    "repository_preview/campus_photo_textured_topdown.png",
+    "repository_preview/west_facade_comparison.png"
+  ]
+}

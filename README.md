@@ -1,5 +1,9 @@
 # XMU-West · COLMAP 数据集
 
+## 三维模型成果
+
+[2026-11-07 校园片区修复版](results/2026-11-07/README.md)包含西端重影修复对比、模型说明与发布包校验值。
+
 原始位置：`D:\Colmap\Project`。本次快照包含 **11,490 个文件、168.784 GiB（181,230,603,441 字节）**。
 
 数据保存在 [Google Drive 私有 Colmap 文件夹](https://drive.google.com/drive/folders/1wHHEzQ8SNW0NyFadkIluY1Ken9k7xc0S)，GitHub 保存清单、校验值和恢复工具。两个位置均保持私有。
